@@ -4,10 +4,7 @@
 Aplikasi berbasis web untuk mengelola proses perencanaan dan pelaksanaan produksi, dibangun menggunakan **Laravel** (Backend) dan **Vue.js** (Frontend).  
 Aplikasi ini dibuat sebagai bagian dari **Technical Test Fullstack Developer Intern di Elitech**.
 
----
-
-##  Gambaran Fitur
-
+# Gambaran Fitur
 
 ##  Deskripsi Pengguna
 
@@ -20,19 +17,15 @@ Staff PPIC dapat:
 Staff Produksi dapat:
 - Menerima **Order Produksi** dari rencana yang disetujui.
 - Memperbarui status produksi:
-  ```
+  
   menunggu → dikerjakan → selesai
-  ```
+  
 - Mencatat jumlah produksi aktual dan produk reject (NG).
 - Membuat laporan per order atau per periode.
 
 Manager dapat:
 - Mengelola data **Produk** (CRUD)
 - Meninjau dan **menyetujui/menolak** rencana produksi
-
----
-
-
 
 ---
 
@@ -44,7 +37,6 @@ Manager dapat:
 | Frontend | Vue.js 3  |
 | UI | Tailwind CSS + ShadCN Components |
 | Database | MySQL |
-
 
 ---
 
