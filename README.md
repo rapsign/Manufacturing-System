@@ -81,6 +81,7 @@ Seeder akan otomatis membuat data.
 ### 5 Install Dependensi Frontend
 ```bash
 npm install
+npm run build
 ```
 
 ### 6 Jalankan Aplikasi
